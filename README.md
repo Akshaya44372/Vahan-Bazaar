@@ -3,7 +3,6 @@ Vahan Bazar — Revolutionizing Two-Wheeler Buying & Selling
 Vahan Bazar is not just a marketplace — it’s a **next-generation two-wheeler ecosystem** that connects riders, sellers, and dealerships with unmatched speed, transparency, and trust.  
 From browsing 3D models to biometric-secure bank transactions, we’ve engineered every detail to redefine how bikes, scooters, and EVs are bought and sold.
 
-Vision
 Our vision is to make two-wheeler transactions as effortless as tapping a button — bringing **trust, convenience, and innovation** to the rider’s fingertips.
 
 Features
@@ -16,7 +15,6 @@ Features
 - **Hyper-Local Discovery:** Filter listings by location, radius, and even transport cost.
 
 Core Features
-
 **For Buyers**
 - Advanced search with filters (brand, price, fuel type)
 - Side-by-side model comparisons
@@ -35,10 +33,8 @@ Core Features
 - Reward points for referrals & shares
 - Seasonal promotions & coupons
 
-**For Everyone**
+ **For Everyone**
 - AI-powered personalized recommendations
 - Offline mode with sync
 - Integrated help center & ticketing
 - Buyer & seller guidelines
-
-
