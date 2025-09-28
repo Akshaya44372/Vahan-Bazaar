@@ -15,7 +15,7 @@ Features
 - **Hyper-Local Discovery:** Filter listings by location, radius, and even transport cost.
 
 Core Features
-**For Buyers**
+ **For Buyers**
 - Advanced search with filters (brand, price, fuel type)
 - Side-by-side model comparisons
 - EMI & fuel cost calculators
